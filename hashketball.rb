@@ -88,25 +88,25 @@ def game_hash
   team[:away][:players][2][:blocks] = 5
   team[:away][:players][2][:slam_dunks] = 5
 
-  team[:away][:players][3][:player_name] = "Mason Plumlee"
-  team[:away][:players][3][:number] = 1
-  team[:away][:players][3][:shoe] = 19
-  team[:away][:players][3][:points] = 26
-  team[:away][:players][3][:rebounds] = 11
-  team[:away][:players][3][:assists] = 6
-  team[:away][:players][3][:steals] = 3
-  team[:away][:players][3][:blocks] = 8
-  team[:away][:players][3][:slam_dunks] = 5
+  team[:away][:players][3][:player_name] = "Ben Gordon"
+  team[:away][:players][3][:number] = 8
+  team[:away][:players][3][:shoe] = 15
+  team[:away][:players][3][:points] = 33
+  team[:away][:players][3][:rebounds] = 3
+  team[:away][:players][3][:assists] = 2
+  team[:away][:players][3][:steals] = 1
+  team[:away][:players][3][:blocks] = 1
+  team[:away][:players][3][:slam_dunks] = 0
 
-  team[:away][:players][4][:player_name] = "Jason Terry"
-  team[:away][:players][4][:number] = 31
+  team[:away][:players][4][:player_name] = "Kemba Walker"
+  team[:away][:players][4][:number] = 33
   team[:away][:players][4][:shoe] = 15
-  team[:away][:players][4][:points] = 19
-  team[:away][:players][4][:rebounds] = 2
-  team[:away][:players][4][:assists] = 2
-  team[:away][:players][4][:steals] = 4
-  team[:away][:players][4][:blocks] = 11
-  team[:away][:players][4][:slam_dunks] = 1
+  team[:away][:players][4][:points] = 6
+  team[:away][:players][4][:rebounds] = 12
+  team[:away][:players][4][:assists] = 12
+  team[:away][:players][4][:steals] = 7
+  team[:away][:players][4][:blocks] = 5
+  team[:away][:players][4][:slam_dunks] = 12
 
 
 
