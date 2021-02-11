@@ -17,7 +17,7 @@ def game_hash
   team[:home][:players][0][:steals] = 3
   team[:home][:players][0][:blocks] = 1
   team[:home][:players][0][:slam_dunks] = 1
-  
+
   team[:home][:players][1] = {:player_name => "Reggie Evans", :number => 30, :shoe => 14, :points => 12, :rebounds => 12, :assists => 12, :steals => 12, :blocks => 12, :slam_dunks => 7}
   team[:home][:players][2] = {:player_name => "Brook Lopez", :number => 11, :shoe => 17, :points => 17, :rebounds => 19, :assists => 10, :steals => 9, :blocks => 1, :slam_dunks => 15}
   team[:home][:players][3] = {:player_name => "Mason Plumlee	", :number => 1, :shoe => 19, :points => 26, :rebounds => 11, :assists => 6, :steals => 3, :blocks => 8, :slam_dunks => 5}
