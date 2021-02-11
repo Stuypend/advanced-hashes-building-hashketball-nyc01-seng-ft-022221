@@ -48,15 +48,65 @@ def game_hash
   team[:home][:players][3][:blocks] = 8
   team[:home][:players][3][:slam_dunks] = 5
 
-  team[:home][:players][3][:player_name] = "Jason Terry"
-  team[:home][:players][3][:number] = 31
-  team[:home][:players][3][:shoe] = 15
-  team[:home][:players][3][:points] = 19
-  team[:home][:players][3][:rebounds] = 2
-  team[:home][:players][3][:assists] = 2
-  team[:home][:players][3][:steals] = 4
-  team[:home][:players][3][:blocks] = 11
-  team[:home][:players][3][:slam_dunks] = 1
+  team[:home][:players][4][:player_name] = "Jason Terry"
+  team[:home][:players][4][:number] = 31
+  team[:home][:players][4][:shoe] = 15
+  team[:home][:players][4][:points] = 19
+  team[:home][:players][4][:rebounds] = 2
+  team[:home][:players][4][:assists] = 2
+  team[:home][:players][4][:steals] = 4
+  team[:home][:players][4][:blocks] = 11
+  team[:home][:players][4][:slam_dunks] = 1
+
+  team[:away][:players][0][:player_name] = "Jeff Adrien"
+  team[:away][:players][0][:number] = 0
+  team[:away][:players][0][:shoe] = 16
+  team[:away][:players][0][:points] = 22
+  team[:away][:players][0][:rebounds] = 12
+  team[:away][:players][0][:assists] = 12
+  team[:away][:players][0][:steals] = 3
+  team[:away][:players][0][:blocks] = 1
+  team[:away][:players][0][:slam_dunks] = 1
+
+  team[:away][:players][1][:player_name] = "Reggie Evans"
+  team[:away][:players][1][:number] = 30
+  team[:away][:players][1][:shoe] = 14
+  team[:away][:players][1][:points] = 12
+  team[:away][:players][1][:rebounds] = 12
+  team[:away][:players][1][:assists] = 12
+  team[:away][:players][1][:steals] = 12
+  team[:away][:players][1][:blocks] = 12
+  team[:away][:players][1][:slam_dunks] = 7
+
+  team[:away][:players][2][:player_name] = "Brook Lopez"
+  team[:away][:players][2][:number] = 11
+  team[:away][:players][2][:shoe] = 17
+  team[:away][:players][2][:points] = 17
+  team[:away][:players][2][:rebounds] = 19
+  team[:away][:players][2][:assists] = 10
+  team[:away][:players][2][:steals] = 9
+  team[:away][:players][2][:blocks] = 1
+  team[:away][:players][2][:slam_dunks] = 15
+
+  team[:away][:players][3][:player_name] = "Mason Plumlee"
+  team[:away][:players][3][:number] = 1
+  team[:away][:players][3][:shoe] = 19
+  team[:away][:players][3][:points] = 26
+  team[:away][:players][3][:rebounds] = 11
+  team[:away][:players][3][:assists] = 6
+  team[:away][:players][3][:steals] = 3
+  team[:away][:players][3][:blocks] = 8
+  team[:away][:players][3][:slam_dunks] = 5
+
+  team[:away][:players][4][:player_name] = "Jason Terry"
+  team[:away][:players][4][:number] = 31
+  team[:away][:players][4][:shoe] = 15
+  team[:away][:players][4][:points] = 19
+  team[:away][:players][4][:rebounds] = 2
+  team[:away][:players][4][:assists] = 2
+  team[:away][:players][4][:steals] = 4
+  team[:away][:players][4][:blocks] = 11
+  team[:away][:players][4][:slam_dunks] = 1
 
 
 
