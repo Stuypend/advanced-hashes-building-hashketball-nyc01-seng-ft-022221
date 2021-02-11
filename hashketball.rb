@@ -78,15 +78,15 @@ def game_hash
   team[:away][:players][1][:blocks] = 15
   team[:away][:players][1][:slam_dunks] = 10
 
-  team[:away][:players][2][:player_name] = "Brook Lopez"
-  team[:away][:players][2][:number] = 11
-  team[:away][:players][2][:shoe] = 17
-  team[:away][:players][2][:points] = 17
-  team[:away][:players][2][:rebounds] = 19
-  team[:away][:players][2][:assists] = 10
-  team[:away][:players][2][:steals] = 9
-  team[:away][:players][2][:blocks] = 1
-  team[:away][:players][2][:slam_dunks] = 15
+  team[:away][:players][2][:player_name] = "DeSagna Diop"
+  team[:away][:players][2][:number] = 2
+  team[:away][:players][2][:shoe] = 14
+  team[:away][:players][2][:points] = 24
+  team[:away][:players][2][:rebounds] = 12
+  team[:away][:players][2][:assists] = 12
+  team[:away][:players][2][:steals] = 4
+  team[:away][:players][2][:blocks] = 5
+  team[:away][:players][2][:slam_dunks] = 5
 
   team[:away][:players][3][:player_name] = "Mason Plumlee"
   team[:away][:players][3][:number] = 1
