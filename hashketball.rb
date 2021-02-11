@@ -110,3 +110,5 @@ def game_hash
 
   return team
 end
+
+puts team
