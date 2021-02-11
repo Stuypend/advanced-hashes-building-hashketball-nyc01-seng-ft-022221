@@ -18,7 +18,15 @@ def game_hash
   team[:home][:players][0][:blocks] = 1
   team[:home][:players][0][:slam_dunks] = 1
 
-
+  team[:home][:players][2][:player_name] = "Brook Lopez"
+    team[:home][:players][2][:number] = 11
+    team[:home][:players][2][:shoe] = 17
+    team[:home][:players][2][:points] = 17
+    team[:home][:players][2][:rebounds] = 19
+    team[:home][:players][2][:assists] = 10
+    team[:home][:players][2][:steals] = 9
+    team[:home][:players][2][:blocks] = 1
+    team[:home][:players][2][:slam_dunks] = 15
 
   return team
 end
