@@ -3,5 +3,5 @@ def game_hash
   team[:team_name] = ""
   team[:colors] = []
   team[:players] = []
-  
+
 end
