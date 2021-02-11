@@ -38,6 +38,16 @@ def game_hash
   team[:home][:players][2][:blocks] = 1
   team[:home][:players][2][:slam_dunks] = 15
 
+  team[:home][:players][3][:player_name] = "Mason Plumlee"
+  team[:home][:players][3][:number] = 1
+  team[:home][:players][3][:shoe] = 19
+  team[:home][:players][3][:points] = 26
+  team[:home][:players][3][:rebounds] = 11
+  team[:home][:players][3][:assists] = 6
+  team[:home][:players][3][:steals] = 3
+  team[:home][:players][3][:blocks] = 8
+  team[:home][:players][3][:slam_dunks] = 5
+
 
 
   #team[:away][:team_name] = ""
