@@ -11,7 +11,7 @@ def game_hash
   team[:home][:players][0][:player_name] = "Alan Anderson"
 
 
-  
+
   team[:away][:team_name] = ""
   team[:away][:colors] = []
   team[:away][:players] = []
